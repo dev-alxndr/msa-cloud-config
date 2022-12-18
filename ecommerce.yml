@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 # 10days
-  secret: user_token
+  secret: user_token_token
 
 gateway:
   ip: 192.168.0.7
